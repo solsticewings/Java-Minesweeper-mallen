@@ -2,7 +2,6 @@
 * A representation of a mine in the game Minesweeper.
 * If you click on it and it isn't flagged, you lose.
 * To win, you must flag them all.
-* By Micah Allen for CS2100-B
 */
 import java.awt.*;
 
