@@ -1,6 +1,5 @@
 /**
 * A representation of a grid of mine and non-mine squares in the game Minesweeper.
-* By Micah Allen for CS2100-B
 */
 import java.awt.*;
 import java.util.Random;
