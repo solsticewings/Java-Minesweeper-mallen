@@ -2,11 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/**
- * Name: Micah Allen
- * Class: CS2100-B
- * Instructor: Jackie Horton
- */
 public class GameComponent extends JComponent implements MouseListener
 {
    private Grid gameGrid;
