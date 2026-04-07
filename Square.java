@@ -1,6 +1,5 @@
 /**
 * A representation of a basic square in the game Minesweeper.
-* By Micah Allen, for CS2100-B
 */
 import java.awt.*;
 
