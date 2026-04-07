@@ -2,7 +2,6 @@
 * A representation of a safe, non-mine square in the game Minesweeper.
 * You need to uncover all of them to win, and they show a number representing
 * how many mines neighbor them to aid you.
-* By Micah Allen for CS2100-B
 */
 import java.awt.*;
 
