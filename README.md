@@ -7,7 +7,7 @@ uncovered and mine squares flagged.
 Created following instructions from and using starter code by Jackie Horton and Daniel Eror at the University of Vermont.
 Audio is the main theme of Pictionary (1990), composed by Tim Follin.
 
-Project is run via "Minesweeper.java," and imports from javax and java.io.
+Project is run via "Minesweeper.java," and imports from javax, java.awt, and java.io.
 
 "Tester.java" contains tests verifying the functionality of classes.
 
